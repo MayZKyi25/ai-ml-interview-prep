@@ -13,11 +13,11 @@ This repository tracks my Python review, LeetCode practice, data structures and 
 
 ## Sections
 
-### Python Review
+### 1. Python Review
 
 Basic Python syntax, functions, loops, lists, dictionaries, strings, and clean coding habits.
 
-### LeetCode / DSA
+### 2. DSA 
 
 LeetCode problems organized by common interview patterns, including:
 
@@ -39,7 +39,10 @@ Each problem includes:
 - Optimized solution
 - Time and space complexity
 
-### ML Interview
+### 3. Leetcode Problems
+
+
+### 4. ML Interview
 
 Machine learning concepts, math foundations, ML coding, and ML system design.
 
@@ -54,9 +57,9 @@ Topics include:
 - Feature pipelines
 - Model serving
 
-### Notes
+### 5. Resource Hub
 
-Resources, mistakes, reflections, and interview question tracking.
+Resources and interview question tracking.
 
 ### Folder Structure
 
@@ -66,21 +69,23 @@ practice-coding/
 ├── .gitignore
 ├── requirements.txt
 │
-├── python_review/
-│   ├── README.md
-│   ├── basics/
-│   └── practice/
+├── 1. python_review/
+├── ├──README.md
+│   ├── basics/...
+│   └── practice/...
 │
-├── dsa/
+├── 2. dsa_leetcode/
 │   ├── README.md
 │   ├── arrays_hashing/
 │   │   ├── 0001_two_sum.py
 │   │   ├── 0217_contains_duplicate.py
 │   │   └── 0242_valid_anagram.py
+│   │   └── ...
 │   │
 │   ├── two_pointers/
 │   │   ├── 0125_valid_palindrome.py
 │   │   └── 0167_two_sum_ii.py
+│   │   └── ...
 │   │
 │   ├── sliding_window/
 │   ├── stack/
@@ -89,19 +94,15 @@ practice-coding/
 │   ├── trees/
 │   ├── graphs/
 │   └── dynamic_programming/
+|   └── ...
 │
-├── ml_interview/
+├── 3. ml_concepts_review/
 │   ├── README.md
 │   ├── fundamentals/
 │   ├── math/
 │   ├── coding/
 │   └── system_design/
 │
-├── notes/
+├── 4.resources/
 │   ├── resources.md
-│   ├── mistakes_log.md
 │   └── interview_questions.md
-│
-└── templates/
-    ├── problem_template.py
-    └── ml_question_template.md
