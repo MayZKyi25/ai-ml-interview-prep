@@ -1,4 +1,7 @@
-# Git Cheat Sheet with Comments
+# Git Cheat Sheet 
+
+https://medium.com/double-pointer/essential-git-cheatsheet-a-developers-companion-5dd8dc480a9f
+
 
 Beginner-friendly Git commands for your coding practice repo.
 

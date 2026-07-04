@@ -1,23 +1,35 @@
-# Practice Coding
+# AI/ML Interview Prep
 
-This repository tracks my Python review, LeetCode practice, data structures and algorithms, and AI/ML interview preparation.
+This repository documents structured preparation for AI/ML engineering interviews.
+
+It includes Python fundamentals, LeetCode-style data structures and algorithms, machine learning concepts, ML coding practice, and interview notes. The goal is to build strong engineering fundamentals through consistent practice, clear explanations, and organized problem-solving.
 
 ## Goals
 
-- Review Python fundamentals
+- Strengthen Python fundamentals
 - Practice LeetCode-style coding problems
 - Learn common DSA patterns
-- Review ML fundamentals
+- Review machine learning fundamentals
 - Build interview-ready coding and ML knowledge
-- Track mistakes and learning progress
+- Track learning progress and problem-solving growth
+
+## What This Repository Shows
+
+- Consistent Python practice
+- LeetCode problems organized by interview pattern
+- Clear problem-solving notes
+- Time and space complexity analysis
+- ML fundamentals review
+- ML coding implementations
+- Reflection notes and continuous improvement
 
 ## Sections
 
-### 1. Python Review
+### 1. Python Foundations
 
-Basic Python syntax, functions, loops, lists, dictionaries, strings, and clean coding habits.
+Python syntax, functions, loops, lists, dictionaries, strings, and clean coding habits.
 
-### 2. DSA 
+### 2. DSA / LeetCode
 
 LeetCode problems organized by common interview patterns, including:
 
@@ -38,9 +50,9 @@ Each problem includes:
 - Brute force approach
 - Optimized solution
 - Time and space complexity
+- Key learning points
 
-
-### 3. ML Interview Practice
+### 3. ML Fundamentals
 
 Machine learning concepts, math foundations, ML coding, and ML system design.
 
@@ -57,52 +69,17 @@ Topics include:
 
 ### 4. Resources
 
-Resources and interview question tracking.
+Resources, learning notes, templates, and interview question tracking.
 
-### Folder Structure
+## Folder Structure
 
 ```text
-practice-coding/
+ai-ml-interview-prep/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-│
-├── python_review/
-│   ├── README.md
-│   ├── basics/
-│   └── practice/
-│       ├── 01_find_max.py
-│       ├── 02_find_min.py
-│       ├── 03_count_element.py
-│       └── 04_count_words.py
-│
+├── python_foundations/
 ├── dsa_leetcode/
-│   ├── README.md
-│   ├── arrays_hashing/
-│   │   ├── 0001_two_sum.py
-│   │   ├── 0217_contains_duplicate.py
-│   │   └── 0242_valid_anagram.py
-│   │
-│   ├── two_pointers/
-│   │   ├── 0125_valid_palindrome.py
-│   │   └── 0167_two_sum_ii.py
-│   │
-│   ├── sliding_window/
-│   ├── stack/
-│   ├── binary_search/
-│   ├── linked_list/
-│   ├── trees/
-│   ├── graphs/
-│   └── dynamic_programming/
-│
-├── ml_concepts_review/
-│   ├── README.md
-│   ├── fundamentals/
-│   ├── math/
-│   ├── coding/
-│   └── system_design/
-│
-└── resources/
-    ├── resources.md
-    └── interview_questions.md
-```
+├── ml_fundamentals/
+├── resources/
+└── templates/
